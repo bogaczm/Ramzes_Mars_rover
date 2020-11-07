@@ -1,0 +1,15 @@
+[My Computer]
+My Computer = "192.168.56.1"
+
+[myRIO-ZEP-01]
+myRIO-ZEP-01 = "172.22.11.2"
+
+[Networked Computer/Device]
+Networked Computer/Device = "172.16.0.1"
+
+[RT myRIO Target]
+RT myRIO Target = "172.16.0.1"
+
+[RT myRIO Target 2]
+RT myRIO Target 2 = "0.0.0.0"
+
